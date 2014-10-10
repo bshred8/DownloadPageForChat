@@ -1,0 +1,23 @@
+.header {
+    width: 1000;
+    height: 25;
+    padding: none;
+    
+    background: #0b0bf2;
+    border: 5px solid black;
+    border-radius: 35px;
+}
+
+.JavaVersion {
+    border: solid black 2px;
+    background: solid #d1b61c;
+}
+
+.AndroidVersion {
+    border: solid black 2px;
+}
+
+#allDownloads {
+    float: left;
+    border: solid #c12121 3px;
+}
